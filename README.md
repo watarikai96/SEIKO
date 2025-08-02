@@ -1,4 +1,4 @@
-# SEiKŌ
+# SEiKŌ (iOS)
 
 **SEiKŌ – Read. Mine. Master.**  
 _Contemporary Language Acquisition Structured System_
@@ -38,7 +38,7 @@ These features are under active development and will be rolled out in future rel
 
 ## Technical Architecture
 
-- Built with **SwiftUI (iOS)** and **Jetpack Compose (Android)**
+- Built with **SwiftUI (iOS)**
 - Powered by **Kotlin Multiplatform** (planned for future desktop support)
 - Uses **FSRS** for adaptive spaced repetition scheduling
 - Stores dictionary, grammar, and book analytics in pre-processed SQLite/JSON formats
