@@ -1,7 +1,7 @@
 # SEIKO
 
 **SEiKŌ – Read. Mine. Master.
-| Contemporary Language Acquisition Structured System
+| Contemporary Language Acquisition Structured System**
 
 SEiKŌ is a gamified kanji and vocabulary acquisition system built around real books and powered by intelligent, AI-assisted immersion. Designed for learners of Japanese (and later Chinese), SEiKŌ transforms reading into mastery — one sentence, one kanji, one insight at a time.
 
